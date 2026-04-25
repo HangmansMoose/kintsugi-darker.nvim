@@ -1,0 +1,27 @@
+{
+  "name": "Kintsugi",
+
+  "background": "#131314",
+  "foreground": "#cacac2",
+
+  "cursorColor": "#d4a943",
+  "selectionBackground": "#47464c",
+
+  "black":         "#131314",
+  "red":           "#b38f8f",
+  "green":         "#a3be8c",
+  "yellow":        "#ebcb8b",
+  "blue":          "#6c7a8a",
+  "purple":        "#b3a3d3",
+  "cyan":          "#6ac6f2",
+  "white":         "#dddddd",
+
+  "brightBlack":   "#444444",
+  "brightRed":     "#d9a6a6",
+  "brightGreen":   "#c3de9c",
+  "brightYellow":  "#fbe4a8",
+  "brightBlue":    "#8fa3b3",
+  "brightPurple":  "#d3a3d3",
+  "brightCyan":    "#8ac6f2",
+  "brightWhite":   "#ffffff"
+}
