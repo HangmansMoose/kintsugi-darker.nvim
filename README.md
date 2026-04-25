@@ -98,6 +98,10 @@ palette in both variants, so one theme file per tool covers both.
   by [@ahatem](https://github.com/ahatem).
 - The Kintsugi name and philosophy — 金継ぎ.
 
+## AI Disclaimer
+
+The port was done using Claude Code. Copying colors and translating highlight groups is a tedious task that AI can do faster than us, and allows us to save time for better things in life... as using this gorgeous theme do write amazing code :) 
+
 ## License
 
 Same spirit as the upstream (MIT). See upstream for details.
