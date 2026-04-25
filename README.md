@@ -3,15 +3,17 @@
 A Neovim port of [@ahatem](https://github.com/ahatem)'s beautiful
 [Kintsugi](https://github.com/ahatem/vscode-kintsugi) VSCode theme.
 
-Two variants, faithful to the originals:
+## Variants
 
-- **kintsugi-dark** — the calm, minimalist original with gilded keywords.
+Two variants, faithful to the originals.
 
-<img width="438" height="525" alt="Screenshot 2026-04-25 at 18 15 38" src="https://github.com/user-attachments/assets/a4010e24-a111-41e4-a5c0-6f41eb07b1b3" />
+### **kintsugi-dark** — the calm, minimalist original with gilded keywords.
 
-- **kintsugi-flared** — the warm autumn/campfire palette.
-  
-<img width="438" height="525" alt="Screenshot 2026-04-25 at 18 15 17" src="https://github.com/user-attachments/assets/3e529989-3342-4906-9497-9bf29457995c" />
+<img width="438" height="525" margin="20px 0" alt="Screenshot 2026-04-25 at 18 15 38" src="https://github.com/user-attachments/assets/a4010e24-a111-41e4-a5c0-6f41eb07b1b3" />
+
+### **kintsugi-flared** — the warm autumn/campfire palette.
+
+<img width="438" height="525" margin="20px 0" alt="Screenshot 2026-04-25 at 18 15 17" src="https://github.com/user-attachments/assets/3e529989-3342-4906-9497-9bf29457995c" />
 
 ## Install
 
