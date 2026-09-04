@@ -8,13 +8,13 @@ local M = {}
 -- which is identical between Kintsugi-Dark and Kintsugi-Dark-Flared).
 local ui = {
   -- Backgrounds
-  bg              = "#161618", -- editor.background
-  bg_dark         = "#131314", -- sidebar, panel, terminal, titleBar
-  bg_darker       = "#111111", -- panelSectionHeader
-  bg_alt          = "#1a1a1d", -- inactive tab, diff unchanged region
+  bg              = "#050505", -- editor.background
+  bg_dark         = "#050505", -- sidebar, panel, terminal, titleBar
+  bg_darker       = "#050505", -- panelSectionHeader
+  bg_alt          = "#0b0b0b", -- inactive tab, diff unchanged region
   bg_line         = "#1d1d1c", -- editor.lineHighlightBackground
-  bg_float        = "#151515", -- widgets, quick input, notifications
-  bg_float_alt    = "#151616", -- suggest widget (with cc alpha — dropped for nvim)
+  bg_float        = "#0b0b0b", -- widgets, quick input, notifications
+  bg_float_alt    = "#0b0b0b", -- suggest widget (with cc alpha — dropped for nvim)
   bg_hover        = "#1c1c1c", -- hover widget
   bg_menu_sel     = "#393b31", -- list.activeSelectionBackground
   bg_menu_inact   = "#32332b", -- list.inactiveSelectionBackground
@@ -46,7 +46,7 @@ local ui = {
   fg_invisible    = "#464741", -- whitespace (without trailing aa)
 
   -- Accents & semantic
-  cursor          = "#d4a943", -- editorCursor.foreground
+  cursor          = "#40ff40", -- editorCursor.foreground
   accent          = "#dbad49", -- breadcrumb active, menu selection
   accent_dim      = "#b8943a", -- focusBorder, activityBar.activeBorder
   accent_hint     = "#dbac35", -- inlayHint, panelTitle.activeBorder
